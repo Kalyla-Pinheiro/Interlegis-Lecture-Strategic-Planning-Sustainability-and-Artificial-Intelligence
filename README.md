@@ -1,9 +1,14 @@
 # Interlegis: Strategic Planning, Sustainability, and Artificial Intelligence
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42881af4-e2ee-4560-9128-ba7a32cc4217" alt="Interlegis Event" width="600">
+</p>
 
-### Academic record of participation as an attendee 
+<p align="center"><em>Image: Legislative Assembly of the State of Pará – ALEPA (Source: <a href="https://www.alepa.pa.gov.br/Comunicacao/Noticia/10547/alepa-sediara-encontro-regional-interlegis-em-novembro">ALEPA</a>)</em></p>
 
-## Choose the language / Escolha o idioma 
+### Academic record of participation as an attendee
+
+## Choose the language
 
 <details>
 <summary><strong>English</strong></summary>
@@ -29,6 +34,14 @@ Interlegis is a program of the Brazilian Federal Senate aimed at strengthening l
 * Type: Academic and institutional event
 * Location: Belém, Pará, Brazil
 
+## Additional Information
+* Lectures included:
+  - **Strategic Planning in Legislative Management** – Rebecca Hesketh, Legislative Secretary of ALEPA  
+  - **The Importance of Interlegis for Legislative Advancement and Cost Efficiency** – Nilo Bairros, Coordinator of the Interlegis Program  
+* Afternoon workshops included:  
+  - **Sustainability and Public Administration: Strategic Alignment for COP30** – Karin Kassmayer, Federal Senate Legislative Consultant  
+  - **Green AI: Artificial Intelligence and Sustainability** – Tadeu Sposito do Amaral, Coordinator of Digital Media, Federal Senate
+
 ## Relevance to Academic Background
 The themes discussed are directly related to academic interests in **Artificial Intelligence**, **sustainability**, **digital governance**, and **responsible technological innovation**, contributing to professional and academic development in Information Systems.
 
@@ -40,10 +53,6 @@ The themes discussed are directly related to academic interests in **Artificial 
 
 <details>
 <summary><strong>Português</strong></summary>
-
-# Interlegis: Planejamento Estratégico, Sustentabilidade e Inteligência Artificial
-
-### Registro acadêmico de participação como ouvinte
 
 ## Sobre o Evento
 Este repositório registra a participação acadêmica como **ouvinte** no **Encontro Regional do Interlegis**, marcado por palestras sobre **planejamento estratégico no Poder Legislativo**, **sustentabilidade na administração pública** e **aplicações éticas da inteligência artificial na gestão pública**. O evento foi realizado na Assembleia Legislativa do Estado do Pará (ALEPA).
@@ -66,6 +75,14 @@ O Interlegis é um programa do Senado Federal que tem como objetivo o fortalecim
 * Tipo: Evento acadêmico-institucional
 * Local: Belém, Pará, Brasil
 
+## Informações Complementares
+* Palestras da programação:
+  - **Planejamento Estratégico na Gestão Legislativa** – Rebecca Hesketh, Secretária Legislativa da ALEPA  
+  - **A Importância do Interlegis para o Avanço do Legislativo e Economia de Custos** – Nilo Bairros, Coordenador do Programa Interlegis  
+* Oficinas da tarde:  
+  - **Sustentabilidade e Administração Pública: Alinhamento Estratégico para COP30** – Karin Kassmayer, Consultora Legislativa do Senado Federal  
+  - **IA Verde: Inteligência Artificial e Sustentabilidade** – Tadeu Sposito do Amaral, Coordenador de Mídias Digitais do Senado Federal
+
 ## Relevância Acadêmica
 Os temas discutidos dialogam diretamente com interesses acadêmicos em **Inteligência Artificial**, **sustentabilidade**, **governança digital** e **uso responsável da tecnologia**, contribuindo para a formação acadêmica na área de Sistemas de Informação.
 
@@ -75,4 +92,4 @@ Os temas discutidos dialogam diretamente com interesses acadêmicos em **Intelig
 
 </details>
 
-> **Nota:** Este repositório possui finalidade **acadêmica e documental**, integrando um portfólio de eventos, palestras e atividades de formação complementar.
+> **Note:** This repository serves an **academic and documentary purpose**, integrating a portfolio of events, lectures, and complementary training activities.
